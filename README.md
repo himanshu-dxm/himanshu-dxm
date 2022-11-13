@@ -21,9 +21,6 @@
 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
 <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"> <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white' alt="java"/> </a>
-
-<!--<a href="https://www.python.org/"> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png' alt="python" width=100px height=100px/></a>-->
-
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" /> </a>
 <a href="https://flutter.dev/" target="_blank"> <img src='https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB' alt="React" />
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' alt="cplusplus" /> </a>
