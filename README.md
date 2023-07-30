@@ -84,10 +84,14 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-dxm&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3"
   alt="himanshu-dxm" />
   <br>
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=himanshu-dxm&bg_color=130F40&color=7a7adb&line=2234ae&point=FFFFFF" />
-</p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-dxm&bg_color=0a0a0a&color=a7a9ec&line=bebec6&point=3cdd57&area=true&hide_border=true" />
+  
+  <!--<img src="https://github-readme-activity-graph.cyclic.app/graph?username=himanshu-dxm&bg_color=130F40&color=7a7adb&line=2234ae&point=FFFFFF" /> -->
+</p>
+<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshu-dxm&bg_color=0a0a0a&color=a7a9ec&line=bebec6&point=3cdd57&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/main/assets/bye.svg">
 </p>
