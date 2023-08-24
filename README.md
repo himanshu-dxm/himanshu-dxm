@@ -7,7 +7,7 @@
   <h3 align="center">Student @ <a href="https://msrit.edu/"> Ramaiah Institute of Technology</a> </h3>
   <h3 align="center">Software Developer and ML/DL Enthusiast</h3>
 
-- 🌱 I’m currently looking for intern and full time opportunities
+- 🌱 I’m currently working at Shell.
 - 💬 Ask me about **Java : Flutter : ML/AI : Firebase **
 - 📫 Reach me at **himanhu.behl@gmail.com**
 
