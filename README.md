@@ -4,11 +4,11 @@
 <body>
   <h1 align="center">Hi 👋, I'm Himanshu Behl
   </h1>
-  <h3 align="center">Student @ <a href="https://msrit.edu/"> Ramaiah Institute of Technology</a> </h3>
+  <h3 align="center">Software Engineer @<a href="https://www.shell.in/">Shell India Markets Pvt. Ltd.</a> </h3>
   <h3 align="center">Software Developer and ML/DL Enthusiast</h3>
 
-- 🌱 I’m currently working at Shell.
-- 💬 Ask me about **Java : Flutter : ML/AI : Firebase **
+- 🌱 Graduated from @<a href="https://www.msrit.edu/">Ramaiah Institute of Technology</a>.
+- 💬 Ask me about **Java : Flutter : ML/DL/AI : Firebase **
 - 📫 Reach me at **himanhu.behl@gmail.com**
 
 
